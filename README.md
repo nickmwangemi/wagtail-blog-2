@@ -62,8 +62,8 @@ Start the server
 **Client/Server:** [Wagtail CMS](https://wagtail.io/)
   
 ## License
+[MIT](/LICENSE)
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
   
 ## Demo

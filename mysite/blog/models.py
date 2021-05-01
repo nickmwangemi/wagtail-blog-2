@@ -21,8 +21,6 @@ class BlogIndexPage(Page):
         ImageChooserPanel('image'),
     ]
 
-    
-
     def get_context(self, request):
         # Update context to include only published posts,
         # in reverse chronological order

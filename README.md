@@ -25,13 +25,6 @@ Create virtual environment and activate it
 ```
 
 
-Go to the project directory
-
-```bash
-  cd wagtail-blog-2/mysite
-```
-
-
 Install dependencies
 
 ```bash

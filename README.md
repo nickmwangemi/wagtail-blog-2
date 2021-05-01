@@ -61,6 +61,6 @@ Start the server
   
 ## Demo
 
-Insert gif or link to demo
+A live demo of this project is available at [https://wagtail-blog-2.herokuapp.com/](https://wagtail-blog-2.herokuapp.com/)
 
   
